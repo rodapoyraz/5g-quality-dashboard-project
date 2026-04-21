@@ -1,0 +1,9 @@
+insight_text,region,priority_level
+Region Warsaw shows the highest average latency during peak hours.,Warsaw,High
+Warsaw has the highest average drop rate in the dataset.,Warsaw,High
+"3 regions are repeatedly at high risk due to congestion and weak signal: Lodz, Krakow, Katowice.",Multiple,High
+4G sites show the higher anomaly rate and should be reviewed for capacity balancing.,All,Medium
+Gdansk recorded the most outages and may need infrastructure resilience checks.,Gdansk,High
+Poznan currently has the strongest overall service quality score.,Poznan,Low
+5G delivers the better average service quality score across the network.,All,Medium
+Katowice shows the sharpest recent decline in service quality compared with the previous week.,Katowice,Medium
